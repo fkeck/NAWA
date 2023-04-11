@@ -1,0 +1,193 @@
+site_code,waterbody,place,canton,biogeo_region,x_lv03,y_lv03,altitude,main_catchment
+CH_002_BS,Birs,NA,BS,Mittelland,613496,267409,250,Rhein
+CH_007_BE,Emme,NA,BE,Mittelland,609445,225330,444,Aare
+CH_009_SO,Limpach,NA,SO,Mittelland,605997,220876,464,Aare
+CH_011_SO,Luessel,NA,SO,Jura,607744,250786,390,Rhein
+CH_012_OW,Sarner Aa,NA,OW,Alpennordflanke,662647,195819,461,Reuss
+CH_014_LU,Reuss,NA,LU,Mittelland,664315,212930,430,Reuss
+CH_015_VS,Rhone,NA,VS,Zentralalpen,639626,128790,659,Rhone
+CH_016_VS,Vispa,NA,VS,Zentralalpen,634030,125900,650,Rhone
+CH_017_VS,Rhone,NA,VS,Zentralalpen,593300,118455,489,Rhone
+CH_018_VS,Dranse,NA,VS,Zentralalpen,570614,104466,495,Rhone
+CH_020_VD,Venoge,NA,VD,Mittelland,532024,154048,384,Rhone
+CH_021_VD,Thielle,NA,VD,Mittelland,538389,180827,432,Aare
+CH_022_VD,Broye,NA,VD,Mittelland,566183,191947,440,Aare
+CH_023_SG,Steinach,NA,SG,Mittelland,750755,262628,409,Rhein
+CH_025_SG,Sitter,NA,SG,Mittelland,745537,258250,535,Rhein
+CH_026_SG,Thur,NA,SG,Mittelland,732383,259206,475,Rhein
+CH_027_SG,Necker,NA,SG,Mittelland,724298,250473,560,Rhein
+CH_028_SG,Glatt,NA,SG,Mittelland,729400,256250,495,Rhein
+CH_032_AG,Pfaffnerrn,NA,AG,Mittelland,634429,239712,405,Aare
+CH_033_AG,Wyna,NA,AG,Mittelland,649071,246917,400,Aare
+CH_034_AG,Buenz,NA,AG,Mittelland,656434,251249,380,Aare
+CH_035_AG,Surb,NA,AG,Mittelland,662285,268508,335,Aare
+CH_036_AG,Sisslen,NA,AG,Mittelland,641500,265545,310,Rhein
+CH_039_AG,Suhre,NA,AG,Mittelland,648700,247570,380,Aare
+CH_040_ZH,Limmat,NA,ZH,Mittelland,679330,250317,397,Limmat
+CH_041_ZH,Toess,NA,ZH,Mittelland,685998,264982,358,Rhein
+CH_042_ZH,Sihl,NA,ZH,Mittelland,682105,246843,410,Limmat
+CH_043_ZH,Glatt,NA,ZH,Mittelland,678123,269619,339,Rhein
+CH_044_ZH,Glatt,NA,ZH,Mittelland,691163,248330,436,Rhein
+CH_045_ZH,Monchaltorfer Aa,NA,ZH,Mittelland,696928,240805,440,Rhein
+CH_046_ZH,Aa (Uster),NA,ZH,Mittelland,694950,244939,441,Rhein
+CH_047_ZH,Reppisch,NA,ZH,Mittelland,672809,252051,385,Limmat
+CH_048_ZH,Jona,NA,ZH,Mittelland,705817,232990,428,Limmat
+CH_049_ZH,Furtbach,NA,ZH,Mittelland,671505,255848,420,Limmat
+CH_050_ZH,Thur,NA,ZH,Mittelland,693065,272893,359,Rhein
+CH_054_FR,Sionge,NA,FR,Mittelland,572353,167639,684,Aare
+CH_058_BE,Kiesen,NA,BE,Mittelland,613807,188906,616,Aare
+CH_059_BE,Guerbe,NA,BE,Mittelland,603555,196625,511,Aare
+CH_060_BE,Sense,NA,BE,Mittelland,593370,193000,549,Aare
+CH_063_BE,Langeten,NA,BE,Mittelland,628600,232897,449,Aare
+CH_066_ZH,Toess,NA,ZH,Mittelland,703828,255510,530,Rhein
+CH_093_LU,Kleine Emme,NA,LU,Mittelland,664207,213237,432,Reuss
+CH_067_BL,Ergolz,NA,BL,Mittelland,620950,264930,261,Rhein
+CH_068_JU,Sorne,NA,JU,Jura,593577,246286,410,Rhein
+CH_069_JU,Scheulte,NA,JU,Jura,599461,244150,465,Rhein
+CH_070_TG,Murg,NA,TG,Mittelland,709510,269793,391,Rhein
+CH_071_TG,Lauche,NA,TG,Mittelland,712330,264343,445,Rhein
+CH_072_TG,Chemibach,NA,TG,Mittelland,721604,273121,419,Rhein
+CH_074_NW,Engelberger Aa,NA,NW,Alpennordflanke,672138,201829,456,Reuss
+CH_075_ZG,Lorze,NA,ZG,Mittelland,674516,230487,390,Reuss
+CH_076_ZG,Lorze,NA,ZG,Mittelland,680595,226069,421,Reuss
+CH_079_AG,Aabach,NA,AG,Mittelland,655159,251068,365,Aare
+CH_084_JU,Allaine,NA,JU,Jura,567887,261272,365,Rhone
+CH_085_NE,Areuse,NA,NE,Jura,554430,199950,445,Aare
+CH_087_JU,Birs,NA,JU,Jura,597753,249364,386,Rhein
+CH_088_JU,Doubs,NA,JU,Jura,572066,243841,420,Rhone
+CH_089_SO,Duennern,NA,SO,Jura,634000,244025,404,Aare
+CH_091_GR,Inn,NA,GR,Zentralalpen,795320,165548,1650,Inn
+CH_092_BE,Kander,NA,BE,Alpennordflanke,616905,170230,620,Aare
+CH_094_BE,Suze,NA,BE,Jura,584763,220291,430,Aare
+CH_095_GR,Landquart,NA,GR,Alpennordflanke,765245,204813,560,Rhein
+CH_098_TI,Maggia,NA,TI,Alpensuedflanke,703084,113851,200,Ticino
+CH_099_TI,Moesa,NA,TI,Alpensuedflanke,724346,120161,235,Ticino
+CH_100_SZ,Muota,NA,SZ,Alpennordflanke,688257,206189,436,Reuss
+CH_101_UR,Reuss,NA,UR,Alpennordflanke,690654,191880,445,Reuss
+CH_106_BE,Saane,NA,BE,Mittelland,585905,203017,463,Aare
+CH_111_AG,Wigger,NA,AG,Mittelland,637194,238503,420,Aare
+CH_114_BE,Emme,NA,BE,Alpennordflanke,623712,199785,640,Aare
+CH_119_NE,Seyon,NA,NE,Jura,559534,207117,635,Aare
+CH_123_TI,Maggia,NA,TI,Alpensuedflanke,692818,134910,622,Ticino
+CH_126_VD,Mentue,NA,VD,Mittelland,545390,180900,448,Aare
+CH_127_VD,Talent,NA,VD,Mittelland,532670,173050,439,Aare
+CH_128_VD,Promenthouse,NA,VD,Mittelland,510084,140075,394,Rhone
+CH_129_VD,Boiron,NA,VD,Mittelland,526273,149580,375,Rhone
+CH_130_VD,Aubonne,NA,VD,Mittelland,520715,147440,395,Rhone
+CH_131_VD,Veveyse,NA,VD,Mittelland,553755,145728,376,Rhone
+CH_132_VD,Grande Eau,NA,VD,Alpennordflanke,561082,130535,386,Rhone
+CH_133_BE,Simme,NA,BE,Alpennordflanke,612505,168441,640,Aare
+CH_134_BE,Birs,NA,BE,Jura,596389,240411,475,Rhein
+CH_135_AR,Urnaesch,NA,AR,Alpennordflanke,742503,251590,593,Rhein
+CH_136_AG,NA,NA,AG,NA,667041,248741,388,Reuss
+CH_137_AG,NA,NA,AG,NA,632608,265780,337,Rhein
+CH_140_FR,NA,NA,FR,NA,552620,184072,570,Aare
+CH_143_SG,NA,NA,SG,NA,764793,250889,400,Rhein
+CH_145_SH,NA,NA,SH,NA,674870,279824,404,Rhein
+CH_146_SH,NA,NA,SH,NA,681330,291094,526,Rhein
+CH_148_TG,NA,NA,TG,NA,744157,268389,450,Rhein
+CH_149_TI,NA,NA,TI,NA,714110,95680,400,Ticino
+CH_150_VD,NA,NA,VD,NA,545151,181272,452,Aare
+CH_151_VD,NA,NA,VD,NA,522923,158664,620,Rhone
+CH_152_VS,NA,NA,VS,NA,597057,121811,491,Rhone
+CH_154_LU,NA,NA,LU,NA,663861,224838,469,Aare
+Spez_001_AG,Fisibach,Fisibach,AG,Mittelland,672799,269725,329,Rhein
+Spez_002_AG,Hottwilerbach,Wil,AG,Mittelland,653833,267657,379,Rhein
+Spez_003_AG,Chrüzlibach,Böbikon,AG,Mittelland,668000,267235,460,Rhein
+Spez_004_AG,Effingerbach,Bözen,AG,Jura,649151,261339,423,Rhein
+Spez_005_AG,Küntenerbach,Künten,AG,Mittelland,667041,248741,389,Reuss
+Spez_006_AG,Dorfbach,Teufenthal,AG,Mittelland,650906,242440,441,Aare
+Spez_007_AG,Büelmülikanal,Aristau,AG,Mittelland,670564,239591,379,Reuss
+Spez_008_AI,Rödelbach,Rüte,AI,Alpennordflanke,750044,243579,790,Rhein
+Spez_009_AI,Horstbach,Schwende,AI,Alpennordflanke,752317,240483,890,Rhein
+Spez_010_AR,Sägebach,Trogen,AR,Alpennordflanke,754954,252403,827,Rhein
+Spez_011_AR,Mühlebach,Waldstatt,AR,Alpennordflanke,740717,247233,687,Rhein
+Spez_012_BE,LaChalière,Perrefitte,BE,Jura,590652,236000,722,Rhein
+Spez_013_BE,Mibach,Büren an der Aare,BE,Mittelland,594883,220380,472,Aare
+Spez_014_BE,Walterswilbach,Ursenbach,BE,Mittelland,626000,219064,626,Aare
+Spez_015_BE,Chrümmelisbach,Bätterkinden,BE,Mittelland,605524,218950,464,Aare
+Spez_016_BE,Lyssbach,Schüpfen,BE,Mittelland,593375,210977,486,Aare
+Spez_017_BE,Ballmoosbach,Zuzwil,BE,Mittelland,603217,210481,547,Aare
+Spez_018_BE,Kanal Burgermoos,Lüscherz,BE,Mittelland,580320,210009,437,Aare
+Spez_019_BE,Richigenbach,Worb,BE,Mittelland,610773,196500,617,Aare
+Spez_020_BE,Wileringbächli,Neuenegg,BE,Mittelland,589999,195101,578,Aare
+Spez_021_BE,Heubach,Rüschegg,BE,Alpennordflanke,596005,179311,1011,Aare
+Spez_022_BE,Gilsbach,Adelboden,BE,Alpennordflanke,607992,147813,1376,Aare
+Spez_023_BE,Scherlibach,Wald,BE,Mittelland,600596,190860,760,Aare
+Spez_024_BL,Weierbach,Oberwil,BL,Mittelland,608708,264282,337,Rhein
+Spez_025_BL,Wahlenbach,Laufen,BL,Jura,604827,251686,356,Rhein
+Spez_026_BS,Bettingerbach,Bettingen,BS,Mittelland,616209,269234,325,Rhein
+Spez_027_FR,La Bainoz,Estavayer,FR,Mittelland,552124,183577,582,Aare
+Spez_028_FR,Ruisseau de Lentigny,Corserey,FR,Mittelland,566256,179335,685,Aare
+Spez_029_FR,La Longivue,Gibloux,FR,Mittelland,569660,175150,679,Aare
+Spez_030_FR,La Corbassiere,Jorat-Menthue,VD,Mittelland,544483,161222,863,Aare
+Spez_031_FR,Le Corjon,Châtel-Saint-Denis,FR,Alpennordflanke,560000,155145,848,Aare
+Spez_032_FR,Le Tatrel,Remaufens,FR,Mittelland,555901,153269,707,Aare
+Spez_033_FR,Ruis Uleveage Grolley,Grolley,FR,Mittelland,571450,188570,610,Aare
+Spez_034_GE,Le Creuson,Collex-Bossy,GE,Mittelland,499219,126779,414,Rhone
+Spez_035_GE,Le Nant de Crues,Avully,GE,Mittelland,489762,114861,353,Rhone
+Spez_036_GL,Namenlos - Linth-Ebene,Niederurnen,GL,Alpennordflanke,723340,221388,421,Limmat
+Spez_037_GL,Steinigerbach,Haslen,GL,Alpennordflanke,722510,204500,548,Limmat
+Spez_038_GR,Namenlos - Fläsch,Fläsch,GR,Alpennordflanke,756386,211402,489,Rhein
+Spez_039_GR,Namenlos - Valturtobel,Trimmis,GR,Alpennordflanke,761225,196682,570,Rhein
+Spez_040_GR,Namenlos - Domat/Ems,Domat/Ems,GR,Östliche Zentralalpen,754582,189121,577,Rhein
+Spez_041_GR,Stätzer Bach,Churwalden,GR,Östliche Zentralalpen,761502,181977,1353,Rhein
+Spez_042_GR,Clozza,Scuol,GR,Östliche Zentralalpen,818002,188000,1404,Inn
+Spez_043_JU,La Vendline,Vendlincourt,JU,Jura,578456,256366,438,Rhone
+Spez_044_JU,Ervaratte,La Baroche,JU,Jura,580262,251633,495,Rhone
+Spez_045_JU,La Scheulte,Corban,JU,Jura,602000,243957,504,Rhein
+Spez_046_LU,Dorfbach Geuensee,Geuensee,LU,Mittelland,649365,227358,488,Aare
+Spez_047_LU,Rickenbach,Ebersecken,LU,Mittelland,638021,225511,529,Aare
+Spez_048_LU,Ron,Root,LU,Mittelland,671684,218253,414,Reuss
+Spez_049_LU,Tannebach,Buttisholz,LU,Mittelland,648402,218357,547,Aare
+Spez_050_LU,Sellenbodenbach,Neuenkirch,LU,Mittelland,658547,218259,519,Aare
+Spez_051_LU,Würzenbach,Luzern,LU,Mittelland,668466,211506,434,Reuss
+Spez_052_NE,Seyon,Val-de-Ruz,NE,Jura,561900,211400,771,Aare
+Spez_053_NE,La Sorge,Valangin,NE,Jura,558703,207685,701,Aare
+Spez_054_NW,Gieslibach,Stansstad,NW,Alpennordflanke,668837,203168,439,Reuss
+Spez_055_OW,Grosse Schliere,Sarnen,OW,Alpennordflanke,652681,194630,1429,Reuss
+Spez_056_OW,Rütibach,Giswil,OW,Alpennordflanke,656688,189113,477,Reuss
+Spez_057_SG,Zapfenbach,Diepoldsau,SG,Mittelland,764793,250889,408,Rhein
+Spez_058_SG,Mittlerer Seegraben,Oberriet,SG,Mittelland,764600,251002,407,Rhein
+Spez_059_SG,Gerenbach,Rapperswil-Jona,SG,Mittelland,708960,232043,423,Limmat
+Spez_060_SG,Grabserbach,Grabs,SG,Alpennordflanke,752000,227768,474,Rhein
+Spez_061_SG,Zufluss Sornbach,Niederbüren,SG,Mittelland,734401,259121,495,Rhein
+Spez_062_SH,Fochtelgraben,Neunkirch,SH,Mittelland,680652,282892,433,Rhein
+Spez_063_SH,Essitaalgraben,Hallau,SH,Mittelland,673217,284034,429,Rhein
+Spez_064_SH,Hoobach,Hallau,SH,Mittelland,676248,282463,414,Rhein
+Spez_065_SO,Aabach,Lostdorf,SO,Jura,638125,248685,461,Aare
+Spez_066_SO,Stuesslingerbach,Lostdorf,SO,Jura,639444,247929,427,Aare
+Spez_067_SO,Ramiswilerbach,Mümliswil-Ramiswil,SO,Jura,614000,243915,727,Aare
+Spez_068_SZ,Mächlerruns,Schübelbach,SZ,Alpennordflanke,713564,226804,412,Limmat
+Spez_069_SZ,Fischernbach,Alpthal,SZ,Alpennordflanke,696128,210963,1097,Limmat
+Spez_070_TG,Eschlisbach,Güttingen,TG,Mittelland,740186,274345,403,Rhein
+Spez_071_TG,Tobelmülibach,Romanshorn,TG,Mittelland,743951,270711,429,Rhein
+Spez_072_TG,Hünnikerbach,Bussnang,TG,Mittelland,722000,267859,488,Rhein
+Spez_073_TG,Luetzelmurg,Bichelsee-Balterswil,TG,Mittelland,712366,256640,587,Rhein
+Spez_074_TI,Ri delle Sponde,Maggia,TI,Alpensüdflanke,692780,127634,377,Ticino
+Spez_075_TI,Isella,Locarno,TI,Alpensüdflanke,711488,114534,198,Ticino
+Spez_076_TI,Canale principale,Gudo,TI,Alpensüdflanke,717142,114042,207,Ticino
+Spez_077_TI,Laveggio,Mendrisio,TI,Alpensüdflanke,718107,79486,329,Ticino
+Spez_078_UR,Giessen,Flüelen,UR,Alpennordflanke,689983,194700,434,Reuss
+Spez_079_UR,Riedertalerbach,Bürglen,UR,Alpennordflanke,694941,191995,748,Reuss
+Spez_080_VD,La Bioleyre,Corserey,VD,Mittelland,562195,182050,508,Aare
+Spez_081_VD,Canal Occidental,Treycovagnes,VD,Mittelland,536000,179111,433,Aare
+Spez_082_VD,Ruisseau des Combes,Chavornay,VD,Mittelland,534074,174762,445,Aare
+Spez_083_VD,Le Combagnou,Pampigny,VD,Mittelland,522923,158666,619,Rhone
+Spez_084_VD,Irence,Yens,VD,Mittelland,522785,151608,477,Rhone
+Spez_085_VD,Namenlos - Chexhres,Puidoux,VD,Mittelland,549000,147914,533,Rhone
+Spez_086_VD,Eau Noir,Perroy,VD,Mittelland,518000,147046,398,Rhone
+Spez_087_VD,Petit Hongrin,Villeneuve,VD,Alpennordflanke,567000,139361,1363,Aare
+Spez_088_VS,Canal D'Uvrier,Sion,VS,Westliche Zentralalpen,597057,121811,492,Rhone
+Spez_089_VS,Ruisseau de Sensine,Conthey,VS,Westliche Zentralalpen,589098,122062,940,Rhone
+Spez_090_VS,La Tsatonire,Savièse,VS,Westliche Zentralalpen,590227,121005,535,Rhone
+Spez_091_VS,Torrent du Tsâblo,Nendaz,VS,Westliche Zentralalpen,590001,115014,1065,Rhone
+Spez_092_VS,Namenlos - Collonges,Collonges,VS,Westliche Zentralalpen,568899,113156,449,Rhone
+Spez_093_ZG,Littibach,Baar,ZG,Mittelland,682921,228711,445,Reuss
+Spez_094_ZG,Dorfbach Oberägeri,Oberägeri,ZG,Alpennordflanke,689900,221806,811,Reuss
+Spez_095_ZH,Landbach,Wasterkingen,ZH,Mittelland,678339,271375,371,Rhein
+Spez_096_ZH,Mülibach,Wildberg,ZH,Mittelland,704000,251888,637,Rhein
+Spez_097_ZH,Dorfbach Maur,Maur,ZH,Mittelland,693286,244408,443,Rhein
+Spez_098_ZH,Mostbach,Hinwil,ZH,Mittelland,703774,239416,539,Rhein
+Spez_099_ZH,Lieburgerbach,Egg,ZH,Mittelland,696713,238802,460,Rhein
+Spez_100_ZH,Chrebsbach,Thalwil,ZH,Mittelland,684861,236842,549,Limmat

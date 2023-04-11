@@ -1,0 +1,214 @@
+layer,category,description
+AS18_4,1,Surfaces d’habitat et d’infrastructure
+AS18_4,2,Surfaces agricoles
+AS18_4,3,Surfaces boisées
+AS18_4,4,Surfaces improductives
+AS18_17,1,Aires industrielles et artisanales
+AS18_17,2,Aires de bâtiments
+AS18_17,3,Surfaces de transport
+AS18_17,4,Surfaces d’infrastructure spéciale
+AS18_17,5,Espaces verts et lieux de détente
+AS18_17,6,"Arboriculture fruitière, viticulture, horticulture"
+AS18_17,7,Terres arables
+AS18_17,8,"Prairies naturelles, pâturages locaux"
+AS18_17,9,Alpages
+AS18_17,10,Forêt (sans forêt buissonnante)
+AS18_17,11,Forêt buissonnante
+AS18_17,12,Autres surfaces boisées
+AS18_17,13,Lacs
+AS18_17,14,Cours d’eau
+AS18_17,15,Végétation improductive
+AS18_17,16,Surfaces sans végétation
+AS18_17,17,"Glaciers, névés"
+AS18_27,1,Aires industrielles et artisanales
+AS18_27,2,Aires d’habitation
+AS18_27,3,Aires de bâtiments publics
+AS18_27,4,Aires de bâtiments agricoles
+AS18_27,5,Aires de bâtiments non déterminés
+AS18_27,6,Aires routières
+AS18_27,7,Aires ferroviaires
+AS18_27,8,Aérodromes
+AS18_27,9,Surfaces d’infrastructure spéciale
+AS18_27,10,Espaces verts et lieux de détente
+AS18_27,11,Arboriculture fruitière
+AS18_27,12,Viticulture
+AS18_27,13,Horticulture
+AS18_27,14,Terres arables
+AS18_27,15,Prairies naturelles
+AS18_27,16,Pâturages locaux
+AS18_27,17,Alpages fauchés
+AS18_27,18,Alpages pâturés
+AS18_27,19,Forêt dense
+AS18_27,20,Forêt clairsemée
+AS18_27,21,Forêt buissonnante
+AS18_27,22,Autres surfaces boisées
+AS18_27,23,Lacs
+AS18_27,24,Cours d’eau
+AS18_27,25,Végétation improductive
+AS18_27,26,Surfaces sans végétation
+AS18_27,27,"Glaciers, névés"
+AS18_72,1,Bâtiments industriels et artisanaux
+AS18_72,2,Terrains attenants aux bâtiments industriels et artisanaux
+AS18_72,3,Maisons individuelles et maisons de deux logements
+AS18_72,4,Terrains attenants aux maisons individuelles et aux maisons de deux logements
+AS18_72,5,Maisons alignées et en terrasses
+AS18_72,6,Terrains attenants aux maisons alignées et en terrasses
+AS18_72,7,Immeubles résidentiels
+AS18_72,8,Terrains attenants aux immeubles résidentiels
+AS18_72,9,Bâtiments publics
+AS18_72,10,Terrains attenants aux bâtiments publics
+AS18_72,11,Bâtiments agricoles
+AS18_72,12,Terrains attenants aux bâtiments agricoles
+AS18_72,13,Bâtiments non déterminés
+AS18_72,14,Terrains attenants aux bâtiments non déterminés
+AS18_72,15,Autoroutes
+AS18_72,16,Bordures d'autoroutes
+AS18_72,17,"Routes, chemins"
+AS18_72,18,Bordures de routes
+AS18_72,19,Aires de parc de stationnement
+AS18_72,20,Aires ferroviaires stabilisées
+AS18_72,21,Bordures de voies ferrées
+AS18_72,22,Aérodromes (surfaces en dur)
+AS18_72,23,Aérodromes (surfaces gazonnées)
+AS18_72,24,Installations d'approvisionnement en énergie
+AS18_72,25,Stations d'épuration des eaux usées
+AS18_72,26,Autres installations d'approvisionnement et d'élimination
+AS18_72,27,Décharges
+AS18_72,28,Extraction de matériaux
+AS18_72,29,Chantiers
+AS18_72,30,Friches et bâtiments désaffectés
+AS18_72,31,Parcs publics
+AS18_72,32,Installations de sport
+AS18_72,33,Terrains de golf
+AS18_72,34,Terrains de camping
+AS18_72,35,Jardins ouvriers
+AS18_72,36,Cimetières
+AS18_72,37,Plantations fruitières
+AS18_72,38,Arbres fruitiers de plein champ
+AS18_72,39,Vignobles
+AS18_72,40,Horticulture
+AS18_72,41,Terres arables
+AS18_72,42,Prairies naturelles
+AS18_72,43,Pâturages locaux
+AS18_72,44,Prés et pâturages locaux embroussaillés
+AS18_72,45,Alpages fauchés
+AS18_72,46,Alpages favorables
+AS18_72,47,Alpages embroussaillés
+AS18_72,48,Alpages rocailleux
+AS18_72,49,"Alpes à moutons, foins de rocher"
+AS18_72,50,Forêt normale
+AS18_72,51,Bande de forêt
+AS18_72,52,Aires afforestées
+AS18_72,53,Coupes de bois
+AS18_72,54,Surfaces forestières dévastées
+AS18_72,55,Forêt clairsemée (sur surfaces agricoles)
+AS18_72,56,Forêt clairsemée (sur surfaces improductives)
+AS18_72,57,Forêt buissonnante
+AS18_72,58,"Bosquets, haies"
+AS18_72,59,Groupes d'arbres (sur surfaces agricoles)
+AS18_72,60,Groupes d’arbres (sur surfaces improductives)
+AS18_72,61,Lacs
+AS18_72,62,Cours d’eau
+AS18_72,63,Ouvrages de protection contre les crues
+AS18_72,64,"Arbustes, broussailles"
+AS18_72,65,Végétation herbacée improductive
+AS18_72,66,Ouvrages de protection contre les chutes de pierres et paravalanches
+AS18_72,67,Zones humides
+AS18_72,68,Infrastructure de sports alpins
+AS18_72,69,Rochers
+AS18_72,70,"Eboulis, sable"
+AS18_72,71,Interventions dans le paysage
+AS18_72,72,"Glaciers, névés"
+LU18_4,1,Habitat et infrastructure
+LU18_4,2,Agriculture
+LU18_4,3,Aires boisées
+LU18_4,4,Aires improductives
+LU18_10,100,Aires de bâtiments
+LU18_10,120,Surfaces de transport
+LU18_10,140,Surfaces d'infrastructure spéciale
+LU18_10,160,Espaces verts et lieux de détente
+LU18_10,200,"Arboriculture, viticulture, horticulture"
+LU18_10,220,Cultures fourragères et de plein champ
+LU18_10,240,Alpages
+LU18_10,300,Forêt (exploitation agricole non comprise)
+LU18_10,400,Lacs et cours d'eau
+LU18_10,420,Terres improductives
+LC18_6,1,Surfaces non naturelles
+LC18_6,2,Végétation herbacée
+LC18_6,3,Végétation buissonnante
+LC18_6,4,Végétation d'arbres
+LC18_6,5,Surfaces sans végétation
+LC18_6,6,Plans d'eau et surfaces humides
+LC18_27,11,Surfaces compactées
+LC18_27,12,Bâtiments
+LC18_27,13,Serres
+LC18_27,14,Structures de cultures en planches
+LC18_27,15,Gazon
+LC18_27,16,Arbres sur terrains aménagés
+LC18_27,17,Petites structures mixtes
+LC18_27,21,Végétation herbacée
+LC18_27,31,Buissons
+LC18_27,32,Surfaces embroussaillées
+LC18_27,33,Arbres fruitiers à basses tiges
+LC18_27,34,Vignes
+LC18_27,35,Cultures horticoles permanentes
+LC18_27,41,Peuplements d’arbres denses
+LC18_27,42,Coins de forêt
+LC18_27,43,Bande de forêt
+LC18_27,44,Peuplements d’arbres clairsemés
+LC18_27,45,Peuplements de forêt buissonnante
+LC18_27,46,Peuplements d’arbres linéaires
+LC18_27,47,Groupes d’arbres
+LC18_27,51,Rochers saillants
+LC18_27,52,Pierres meubles
+LC18_27,53,Surfaces pierreuses
+LC18_27,61,Plans d’eau
+LC18_27,62,"Glaciers, névés"
+LC18_27,63,Biotopes humides
+LC18_27,64,Roselières
+LU18_46,101,Aires de bâtiments et aires industriels > 1 ha
+LU18_46,102,Aires de bâtiments et aires industriels < 1 ha
+LU18_46,103,Aires de maisons individuelles et de maisons de 2 logements
+LU18_46,104,Aires de maisons alignées et en terrasses
+LU18_46,105,Aires d’immeubles résidentiels
+LU18_46,106,Aires de bâtiments publics
+LU18_46,107,Aires de bâtiments agricoles
+LU18_46,108,Aires de bâtiments non déterminés
+LU18_46,121,Aires autoroutières
+LU18_46,122,Aires routières
+LU18_46,123,Aires de parc de stationnement
+LU18_46,124,Aires ferroviaires
+LU18_46,125,Aérodromes
+LU18_46,141,Installations d'approvisionne­ment en énergie
+LU18_46,142,Stations d'épuration des eaux usées
+LU18_46,143,Autres installations d'appro­visionnement et d'élimination
+LU18_46,144,Décharges
+LU18_46,145,Extraction de matériaux
+LU18_46,146,Chantiers
+LU18_46,147,Friches industrielles et bâtiments désaffectés
+LU18_46,161,Parcs publics
+LU18_46,162,Installations de sport
+LU18_46,163,Terrains de golf
+LU18_46,164,Terrains de camping
+LU18_46,165,Jardins familiaux
+LU18_46,166,Cimetières
+LU18_46,201,Arboriculture
+LU18_46,202,Viticulture
+LU18_46,203,Horticulture
+LU18_46,221,Terres arables au sens large
+LU18_46,222,Prairies naturelles au sens large
+LU18_46,223,Pâturages locaux au sens large
+LU18_46,241,Alpages fauchés au sens large
+LU18_46,242,Alpages pâturés au sens large
+LU18_46,243,Alpages à moutons au sens large
+LU18_46,301,Peuplements forestiers
+LU18_46,302,Aires afforestées
+LU18_46,303,Coupes de bois
+LU18_46,304,Surfaces forestières dévastées
+LU18_46,401,Lacs
+LU18_46,402,"Rivières, ruisseaux"
+LU18_46,403,Ouvrages de protection contre les crues
+LU18_46,421,Aucune utilisation
+LU18_46,422,"Ouvrages de protection (pierres, avalanches)"
+LU18_46,423,Infrastructure de sports alpins
+LU18_46,424,Interventions dans le paysage
